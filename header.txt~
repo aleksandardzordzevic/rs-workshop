@@ -1,3 +1,7 @@
 Some text header
-Changes from 'master'
+<<<<<<< HEAD
+Changes from 'master' -new changes!!!
+=======
+Changes from 'first'
+>>>>>>> 4f398e5 (add footer)
 
